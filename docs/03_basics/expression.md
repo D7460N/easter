@@ -20,11 +20,11 @@ On stage, it is how faith, story, and character come to life through voice, face
 - To reflect the light of Christ through sincerity and authenticity in every gesture and tone.
 
 ## Core Principles
-1. **Authenticity Over Acting** – Express truth, not performance; sincerity moves hearts more than dramatics.
-2. **Emotion Through Understanding** – Feelings follow comprehension — know the “why” behind every word and movement.
-3. **Subtlety and Control** – Use restraint; quiet conviction often speaks louder than loud emotion.
-4. **Unity of Voice and Body** – Align tone, posture, and gesture so all communicate the same message.
-5. **Spiritual Integrity** – Expression flows from time spent in prayer and reflection on Scripture, not from imitation.
+1. **Authenticity Over Acting** - Express truth, not performance; sincerity moves hearts more than dramatics.
+2. **Emotion Through Understanding** - Feelings follow comprehension — know the “why” behind every word and movement.
+3. **Subtlety and Control** - Use restraint; quiet conviction often speaks louder than loud emotion.
+4. **Unity of Voice and Body** - Align tone, posture, and gesture so all communicate the same message.
+5. **Spiritual Integrity** - Expression flows from time spent in prayer and reflection on Scripture, not from imitation.
 
 ## Best Practices
 - Study the script or lyrics deeply; understand the emotion behind every line.
@@ -44,7 +44,7 @@ On stage, it is how faith, story, and character come to life through voice, face
 
 ## Ministry Focus
 True expression on stage is an overflow of inner conviction.
-When we understand the Gospel we portray, expression becomes worship — light shining from the heart to reveal Christ’s truth.
+When we understand the Gospel we portray, expression becomes worship — light shining from the heart to reveal Christ's truth.
 
-> “For God, who said, ‘Let light shine out of darkness,’ made His light shine in our hearts to give us the light of the knowledge of God’s glory displayed in the face of Christ.”
+> “For God, who said, 'Let light shine out of darkness,' made His light shine in our hearts to give us the light of the knowledge of God's glory displayed in the face of Christ.”
 > — *2 Corinthians 4:6*

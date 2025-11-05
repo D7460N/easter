@@ -15,12 +15,12 @@ The director shepherds the creative and spiritual vision of each production.
 They ensure every performance communicates the Gospel clearly while nurturing the growth, unity, and confidence of the team.
 
 ## Core Responsibilities
-- **Vision Casting** – Define the message, tone, and flow of each production in alignment with church leadership.
-- **Communication** – Provide clear expectations, updates, and direction to all volunteers and departments.
-- **Coordination** – Oversee collaboration between acting, singing, tech, and pastoral teams.
-- **Rehearsal Leadership** – Plan rehearsals, set pacing, and ensure efficient use of time.
-- **Pastoral Sensitivity** – Address personal or spiritual needs within the team with gentleness and care.
-- **Evaluation & Growth** – Conduct debriefs after events; celebrate wins and identify areas for improvement.
+- **Vision Casting** - Define the message, tone, and flow of each production in alignment with church leadership.
+- **Communication** - Provide clear expectations, updates, and direction to all volunteers and departments.
+- **Coordination** - Oversee collaboration between acting, singing, tech, and pastoral teams.
+- **Rehearsal Leadership** - Plan rehearsals, set pacing, and ensure efficient use of time.
+- **Pastoral Sensitivity** - Address personal or spiritual needs within the team with gentleness and care.
+- **Evaluation & Growth** - Conduct debriefs after events; celebrate wins and identify areas for improvement.
 
 ## Best Practices
 - Begin and end every rehearsal with prayer.

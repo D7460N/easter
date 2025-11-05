@@ -16,12 +16,12 @@ Their work may be behind the scenes, but it makes the message visible and audibl
 Technical ministry is both craftsmanship and worship — excellence offered to God through skill and reliability.
 
 ## Core Responsibilities
-- **Audio Operations** – Manage microphones, soundboard, and monitors; balance levels for clarity and comfort.
-- **Lighting & Visuals** – Program cues, maintain focus and brightness, and support the story visually.
-- **Media Support** – Operate slides, video playback, and graphics in sync with cues.
-- **System Stewardship** – Maintain equipment, cables, batteries, and storage with care.
-- **Rehearsal Integration** – Attend key rehearsals to learn cues and test timing.
-- **Safety Awareness** – Follow electrical and stage safety guidelines at all times.
+- **Audio Operations** - Manage microphones, soundboard, and monitors; balance levels for clarity and comfort.
+- **Lighting & Visuals** - Program cues, maintain focus and brightness, and support the story visually.
+- **Media Support** - Operate slides, video playback, and graphics in sync with cues.
+- **System Stewardship** - Maintain equipment, cables, batteries, and storage with care.
+- **Rehearsal Integration** - Attend key rehearsals to learn cues and test timing.
+- **Safety Awareness** - Follow electrical and stage safety guidelines at all times.
 
 ## Best Practices
 - Arrive early to power up and test all equipment before rehearsal.

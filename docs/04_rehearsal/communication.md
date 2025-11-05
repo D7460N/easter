@@ -15,11 +15,11 @@ Communication during rehearsal keeps every participant aligned — spiritually, 
 When communication is clear and gracious, confusion decreases, morale rises, and excellence becomes attainable.
 
 ## Core Principles
-1. **Clarity** – Say what needs to be said directly and kindly; avoid assuming others understand unstated plans.
-2. **Timeliness** – Communicate updates early to prevent last-minute stress.
-3. **Respect** – Listen as actively as you speak; value every contribution.
-4. **Unity** – Use words that build up, not divide; rehearsals are ministry, not management.
-5. **Documentation** – When decisions are made, write them down and share them.
+1. **Clarity** - Say what needs to be said directly and kindly; avoid assuming others understand unstated plans.
+2. **Timeliness** - Communicate updates early to prevent last-minute stress.
+3. **Respect** - Listen as actively as you speak; value every contribution.
+4. **Unity** - Use words that build up, not divide; rehearsals are ministry, not management.
+5. **Documentation** - When decisions are made, write them down and share them.
 
 ## Best Practices
 - Always begin major communications (emails, group chats, announcements) with prayerful intent — seek to inform, not impress.

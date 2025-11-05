@@ -15,16 +15,16 @@ Choreography is the intentional design of movement to visually communicate emoti
 In ministry, it transforms physical expression into worship — aligning the body with the message of the heart.
 
 ## Purpose
-- To illustrate the story’s emotion and meaning through coordinated motion.
+- To illustrate the story's emotion and meaning through coordinated motion.
 - To unify multiple performers into a single visual language.
 - To help audiences experience Scripture and message in a tangible, memorable way.
 
 ## Core Principles
-1. **Clarity Over Complexity** – Movements should support, not distract from, the message.
-2. **Unity and Timing** – Every performer’s movement must align with others and with the rhythm or cue.
-3. **Safety and Stewardship** – All choreography should consider stage size, attire, and physical capability.
-4. **Spirit Over Spectacle** – Movement should glorify God, not self.
-5. **Inclusivity** – Encourage participation regardless of formal dance training.
+1. **Clarity Over Complexity** - Movements should support, not distract from, the message.
+2. **Unity and Timing** - Every performer's movement must align with others and with the rhythm or cue.
+3. **Safety and Stewardship** - All choreography should consider stage size, attire, and physical capability.
+4. **Spirit Over Spectacle** - Movement should glorify God, not self.
+5. **Inclusivity** - Encourage participation regardless of formal dance training.
 
 ## Best Practices
 - Begin with prayer and Scripture that reflect the message of the piece.

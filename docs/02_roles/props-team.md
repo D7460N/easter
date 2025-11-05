@@ -16,12 +16,12 @@ Their work ensures scenes flow smoothly, transitions happen safely, and the envi
 Orderly props management prevents distraction and protects the focus of worship.
 
 ## Core Responsibilities
-- **Preparation** – Source, build, or borrow all props listed in the script or director’s notes.
-- **Organization** – Label and store items in clearly marked bins or tables backstage.
-- **Rehearsal Support** – Attend run-throughs to learn cues, timing, and placement.
-- **Placement & Reset** – Position props before each scene and reset them after each performance.
-- **Stewardship** – Care for all materials, return borrowed items, and avoid waste.
-- **Safety** – Ensure all items are secure, clean, and safe to handle on stage.
+- **Preparation** - Source, build, or borrow all props listed in the script or director's notes.
+- **Organization** - Label and store items in clearly marked bins or tables backstage.
+- **Rehearsal Support** - Attend run-throughs to learn cues, timing, and placement.
+- **Placement & Reset** - Position props before each scene and reset them after each performance.
+- **Stewardship** - Care for all materials, return borrowed items, and avoid waste.
+- **Safety** - Ensure all items are secure, clean, and safe to handle on stage.
 
 ## Best Practices
 - Keep a **Props Inventory Sheet** with location, description, and owner of each item.

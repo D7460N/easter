@@ -11,7 +11,7 @@ related: [acting/blocking, basics/expression, production/sound]
 # Projection
 
 ## Definition
-Projection is the art of using one’s voice to speak or sing clearly and audibly without strain.
+Projection is the art of using one's voice to speak or sing clearly and audibly without strain.
 It is not shouting — it is supported, controlled breath that carries words to every corner of the room while preserving tone and meaning.
 
 ## Purpose
@@ -21,11 +21,11 @@ It is not shouting — it is supported, controlled breath that carries words to 
 - To serve both the message and the congregation through clarity.
 
 ## Core Principles
-1. **Support from Breath** – The voice rides on controlled air; never push from the throat.
-2. **Open Resonance** – Keep posture upright and throat relaxed for full tone.
-3. **Articulation Over Volume** – Clear consonants project better than forced sound.
-4. **Consistency** – Maintain even tone across dialogue, movement, and emotion.
-5. **Spiritual Authority** – Speak or sing as a messenger, not a performer — carrying the Word faithfully.
+1. **Support from Breath** - The voice rides on controlled air; never push from the throat.
+2. **Open Resonance** - Keep posture upright and throat relaxed for full tone.
+3. **Articulation Over Volume** - Clear consonants project better than forced sound.
+4. **Consistency** - Maintain even tone across dialogue, movement, and emotion.
+5. **Spiritual Authority** - Speak or sing as a messenger, not a performer — carrying the Word faithfully.
 
 ## Best Practices
 - Stand tall with balanced posture; imagine your voice reaching the back row, not the ceiling.
@@ -47,5 +47,5 @@ It is not shouting — it is supported, controlled breath that carries words to 
 Projection is not about being heard for attention — it is about being heard for understanding.
 When we project the Word of God with clarity and sincerity, our voices become instruments of His message.
 
-> “A voice of one calling: ‘In the wilderness prepare the way for the Lord; make straight in the desert a highway for our God.’”
+> “A voice of one calling: 'In the wilderness prepare the way for the Lord; make straight in the desert a highway for our God.'”
 > — *Isaiah 40:3*
