@@ -22,6 +22,6 @@ It explains why we create, how we serve, and how leadership decisions shape the 
 
 | File | Focus | Description |
 |------|--------|-------------|
-| [leadership-brief.md](./leadership-brief.md) | Leadership Brief | Leadership Brief |
+| [leadership-brief.md](./leadership-brief.md) | Leadership Brief | Guidance for church leadership on decision-making, scale, and stewardship for stage productions. |
 | [theology-of-art.md](./theology-of-art.md) | Theology Of Art | Biblical foundation for creativity and the arts in worship. |
 | [vision.md](./vision.md) | Vision | Purpose and vision behind church stage productions. |
