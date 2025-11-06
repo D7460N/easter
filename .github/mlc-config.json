@@ -1,0 +1,65 @@
+{
+  "timeout": "20s",
+  "retryOn429": true,
+  "aliveStatusCodes": [
+    200,
+    201,
+    202,
+    203,
+    204,
+    206,
+    403
+  ],
+  "ignorePatterns": [
+    {
+      "pattern": "^mailto:"
+    },
+    {
+      "pattern": "^tel:"
+    },
+    {
+      "pattern": "^#"
+    },
+    {
+      "pattern": "localhost"
+    },
+    {
+      "pattern": "^https://creativecommons.org/"
+    },
+    {
+      "pattern": "^https://fonts.googleapis.com/"
+    },
+    {
+      "pattern": "^https://schema.org/"
+    },
+    {
+      "pattern": "^https://openai.com/"
+    },
+    {
+      "pattern": "^https://github.com/[^/]+/[^/]+/issues"
+    },
+    {
+      "pattern": "^https://modelcontextprotocol.io"
+    },
+    {
+      "pattern": "^https://biblegateway.com"
+    },
+    {
+      "pattern": "^https://biblehub.com"
+    }
+  ],
+  "replacementPatterns": [
+    {
+      "pattern": "(?<=\\]\\()(docs/)",
+      "replacement": "./docs/"
+    },
+    {
+      "pattern": "(?<=\\]\\()(\\.\\./)",
+      "replacement": "./"
+    }
+  ],
+  "checkModifiedFilesOnly": false,
+  "checks": {
+    "anchors": true
+  }
+}
