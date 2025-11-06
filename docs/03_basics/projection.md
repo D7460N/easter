@@ -8,6 +8,9 @@ scriptural_reference: "Isaiah 40:3"
 related: [acting/blocking, basics/expression, production/sound]
 ---
 
+> “A voice of one calling: 'In the wilderness prepare the way for the Lord; make straight in the desert a highway for our God.'”
+> — *Isaiah 40:3*
+
 # Projection
 
 ## Definition
@@ -46,6 +49,3 @@ It is not shouting — it is supported, controlled breath that carries words to 
 ## Ministry Focus
 Projection is not about being heard for attention — it is about being heard for understanding.
 When we project the Word of God with clarity and sincerity, our voices become instruments of His message.
-
-> “A voice of one calling: 'In the wilderness prepare the way for the Lord; make straight in the desert a highway for our God.'”
-> — *Isaiah 40:3*

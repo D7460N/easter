@@ -8,9 +8,13 @@ scriptural_reference: "Romans 12:4-6"
 related: [ministry/purpose, ministry/servant-leadership, ministry/sustainability]
 ---
 
+> “For just as each of us has one body with many members, and these members do not all have the same function, so in Christ we, though many, form one body, and each member belongs to all the others. We have different gifts, according to the grace given to each of us.”
+> — _Romans 12:4-6_
+
 # Ministry Overview and Index
 
 ## Introduction
+
 The ministry section defines the heart, theology, and leadership philosophy that guide all aspects of the church's creative and stage work.
 It exists to ensure that every production — from a small skit to a full Easter pageant — is grounded in biblical truth, servant leadership, and sustainable teamwork.
 
@@ -19,6 +23,7 @@ The purpose of this section is to align every creative decision with spiritual f
 ---
 
 ## Ministry Philosophy
+
 1. **Christ-Centered Creativity** - Every art form reflects the image of the Creator.
 2. **Servant Leadership** - Those who lead do so by serving.
 3. **Community and Unity** - Each role is part of one body working together for the Gospel.
@@ -28,18 +33,20 @@ The purpose of this section is to align every creative decision with spiritual f
 ---
 
 ## Included Documents
-| File | Focus | Description |
-|------|--------|--------------|
-| **[purpose.md](purpose.md)** | Ministry Purpose | Why we serve through the creative arts and what it means to worship through story. |
-| **[theology-of-art.md](theology-of-art.md)** | Theology of Art | The biblical foundation for creativity as worship. |
-| **[servant-leadership.md](servant-leadership.md)** | Leadership Model | Jesus-centered leadership principles for teams and directors. |
-| **[sustainability.md](sustainability.md)** | Healthy Rhythms | Practices to prevent burnout and promote long-term joy in service. |
-| **[church-roles.md](church-roles.md)** | Church Alignment | How the ministry fits within church leadership and structure. |
-| **[code-of-conduct.md](code-of-conduct.md)** | Volunteer Conduct | Guidelines for behavior and unity across all teams. |
+
+| File                                               | Focus             | Description                                                                        |
+| -------------------------------------------------- | ----------------- | ---------------------------------------------------------------------------------- |
+| **[purpose.md](purpose.md)**                       | Ministry Purpose  | Why we serve through the creative arts and what it means to worship through story. |
+| **[theology-of-art.md](theology-of-art.md)**       | Theology of Art   | The biblical foundation for creativity as worship.                                 |
+| **[servant-leadership.md](servant-leadership.md)** | Leadership Model  | Jesus-centered leadership principles for teams and directors.                      |
+| **[sustainability.md](sustainability.md)**         | Healthy Rhythms   | Practices to prevent burnout and promote long-term joy in service.                 |
+| **[church-roles.md](church-roles.md)**             | Church Alignment  | How the ministry fits within church leadership and structure.                      |
+| **[code-of-conduct.md](code-of-conduct.md)**       | Volunteer Conduct | Guidelines for behavior and unity across all teams.                                |
 
 ---
 
 ## Integration Notes
+
 - All ministry documents adhere to the `/schema.yaml` structure.
 - Updates are tracked in `/docs/07_glossary/change-log.md`.
 - Feedback or improvements can be submitted via `/docs/07_glossary/feedback.md`.
@@ -47,8 +54,6 @@ The purpose of this section is to align every creative decision with spiritual f
 ---
 
 ## Ministry Focus
+
 The ministry section exists to root the entire production effort in the life of the Church.
 When creativity flows from discipleship, art becomes worship, and performance becomes proclamation.
-
-> “For just as each of us has one body with many members, and these members do not all have the same function, so in Christ we, though many, form one body, and each member belongs to all the others. We have different gifts, according to the grace given to each of us.”
-> — *Romans 12:4-6*

@@ -8,6 +8,9 @@ scriptural_reference: "1 Corinthians 4:2"
 related: [roles/director, production/safety, production/collaboration]
 ---
 
+> “Now it is required that those who have been given a trust must prove faithful.”
+> — *1 Corinthians 4:2*
+
 # Producer Role Guide
 
 ## Purpose
@@ -40,6 +43,3 @@ They manage the operational side of the production — budgets, schedules, commu
 
 ## Stewardship Principle
 Producers manage details not for control, but for care — ensuring that creative ministry is sustainable, safe, and faithful to the church's calling.
-
-> “Now it is required that those who have been given a trust must prove faithful.”
-> — *1 Corinthians 4:2*

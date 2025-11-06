@@ -8,6 +8,9 @@ scriptural_reference: "Psalm 149:3"
 related: [acting/blocking, rehearsal/etiquette, ministry/theology-of-art]
 ---
 
+> “Let them praise His name with dancing and make music to Him with timbrel and harp.”
+> — *Psalm 149:3*
+
 # Choreography
 
 ## Definition
@@ -45,6 +48,3 @@ In ministry, it transforms physical expression into worship — aligning the bod
 ## Ministry Focus
 Choreography in worship is not performance art but an offering of movement unto God.
 It visually amplifies the story of grace and invites the congregation to feel the truth of the message.
-
-> “Let them praise His name with dancing and make music to Him with timbrel and harp.”
-> — *Psalm 149:3*

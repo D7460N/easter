@@ -10,7 +10,6 @@ schema_name: "church-stage-knowledge"
 
 # Each document's front matter (YAML) must conform to this structure.
 fields:
-
   id:
     type: string
     required: true

@@ -8,6 +8,9 @@ scriptural_reference: "1 Corinthians 14:40"
 related: [production/safety, production/backstage, roles/director]
 ---
 
+> “But everything should be done in a fitting and orderly way.”
+> — *1 Corinthians 14:40*
+
 # Props Team Role Guide
 
 ## Purpose
@@ -42,6 +45,3 @@ Orderly props management prevents distraction and protects the focus of worship.
 ## Ministry Focus
 Every object on stage should serve the message of Christ.
 When handled with care and purpose, props become silent witnesses that support the story of redemption.
-
-> “But everything should be done in a fitting and orderly way.”
-> — *1 Corinthians 14:40*

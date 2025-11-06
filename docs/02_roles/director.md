@@ -8,6 +8,9 @@ scriptural_reference: "Philippians 2:3-4"
 related: [roles/actors, rehearsal/etiquette, production/collaboration]
 ---
 
+> “Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves.”
+> — *Philippians 2:3-4*
+
 # Director Role Guide
 
 ## Purpose
@@ -41,6 +44,3 @@ They ensure every performance communicates the Gospel clearly while nurturing th
 ## Leadership Character
 A director leads through humility, service, and vision.
 They are both artist and shepherd — guiding others to glorify God through unity and excellence.
-
-> “Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves.”
-> — *Philippians 2:3-4*

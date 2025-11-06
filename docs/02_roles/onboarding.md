@@ -6,6 +6,8 @@ audience: [new-volunteer, director]
 summary: "Step-by-step path for new volunteers joining the stage ministry."
 ---
 
+> “Let all things be done for building up.” — *1 Corinthians 14:26*
+
 # Volunteer Onboarding Path
 
 ## Step 1 - Introduction
@@ -22,5 +24,3 @@ Participate in at least one training rehearsal or tech workshop before serving.
 
 ## Step 5 - Serve & Reflect
 Begin rehearsals, stay teachable, and share feedback after each production cycle.
-
-> “Let all things be done for building up.” — *1 Corinthians 14:26*

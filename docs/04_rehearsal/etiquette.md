@@ -6,13 +6,18 @@ audience: [volunteer, director]
 summary: "Guidelines for conduct and professionalism during rehearsals."
 ---
 
+> “Be completely humble and gentle; be patient, bearing with one another in love.”
+> — _Ephesians 4:2_
+
 # Rehearsal Etiquette
 
 ## Core Principles
+
 Rehearsal is sacred preparation.
 How we conduct ourselves off stage is as important as what we present on it.
 
 ## Expectations
+
 - Arrive early, prepared, and prayed up.
 - Refrain from side conversations during notes or blocking.
 - Respect leadership decisions even when changes occur.
@@ -20,7 +25,5 @@ How we conduct ourselves off stage is as important as what we present on it.
 - Support others with encouragement, not critique.
 
 ## Spiritual Mindset
-Rehearsal is where humility, unity, and patience are tested and refined.
 
-> “Be completely humble and gentle; be patient, bearing with one another in love.”
-> — *Ephesians 4:2*
+Rehearsal is where humility, unity, and patience are tested and refined.

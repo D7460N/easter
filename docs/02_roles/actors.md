@@ -6,6 +6,9 @@ audience: [actor, director]
 summary: "Expectations and best practices for volunteer actors."
 ---
 
+> “Each of you should use whatever gift you have received to serve others.”
+> — *1 Peter 4:10*
+
 # Actor Role Guide
 
 ## Purpose
@@ -23,6 +26,3 @@ Their goal is to tell the story faithfully — not to draw attention to themselv
 - Develop your **character's motivation** — why they speak or move as they do.
 - Use **projection** and **clear diction** so every word is understood.
 - Remember the audience is not your focus — the *message* is.
-
-> “Each of you should use whatever gift you have received to serve others.”
-> — *1 Peter 4:10*

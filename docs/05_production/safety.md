@@ -6,6 +6,8 @@ audience: [tech, director, all]
 summary: "Basic safety and emergency guidelines for stage environments."
 ---
 
+> “The prudent see danger and take refuge.” — *Proverbs 27:12*
+
 # Stage & Rehearsal Safety
 
 ## General Principles
@@ -26,5 +28,3 @@ Safety is stewardship — protecting people and property entrusted to our care.
 - In any emergency, prioritize people over property.
 - Call 911 when appropriate; notify pastoral staff.
 - Maintain a basic first-aid kit backstage.
-
-> “The prudent see danger and take refuge.” — *Proverbs 27:12*

@@ -8,6 +8,9 @@ scriptural_reference: "2 Corinthians 4:6"
 related: [acting/blocking, basics/choreography, rehearsal/etiquette]
 ---
 
+> “For God, who said, 'Let light shine out of darkness,' made His light shine in our hearts to give us the light of the knowledge of God's glory displayed in the face of Christ.”
+> — *2 Corinthians 4:6*
+
 # Expression
 
 ## Definition
@@ -45,6 +48,3 @@ On stage, it is how faith, story, and character come to life through voice, face
 ## Ministry Focus
 True expression on stage is an overflow of inner conviction.
 When we understand the Gospel we portray, expression becomes worship — light shining from the heart to reveal Christ's truth.
-
-> “For God, who said, 'Let light shine out of darkness,' made His light shine in our hearts to give us the light of the knowledge of God's glory displayed in the face of Christ.”
-> — *2 Corinthians 4:6*

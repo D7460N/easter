@@ -8,6 +8,10 @@ scriptural_reference: "1 Peter 4:11"
 related: [production/sound, production/safety, production/collaboration]
 ---
 
+> “If anyone serves, they should do so with the strength God provides, so that in all things God may be praised through Jesus Christ.”
+> — *1 Peter 4:11*
+
+
 # Tech Team Role Guide
 
 ## Purpose
@@ -42,6 +46,3 @@ Technical ministry is both craftsmanship and worship — excellence offered to G
 ## Ministry Focus
 Technical service enables the Gospel to be heard and seen clearly.
 Through unseen diligence and excellence, the tech team glorifies God and serves both the performers and the congregation.
-
-> “If anyone serves, they should do so with the strength God provides, so that in all things God may be praised through Jesus Christ.”
-> — *1 Peter 4:11*

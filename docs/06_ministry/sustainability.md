@@ -8,6 +8,9 @@ scriptural_reference: "Mark 6:31"
 related: [ministry/servant-leadership, rehearsal/schedule, ministry/purpose]
 ---
 
+> “Then, because so many people were coming and going that they did not even have a chance to eat, he said to them, 'Come with me by yourselves to a quiet place and get some rest.'”
+> — *Mark 6:31*
+
 # Ministry Sustainability
 
 ## Definition
@@ -51,6 +54,3 @@ A sustainable ministry allows volunteers to thrive spiritually and emotionally w
 ## Ministry Focus
 Sustainability is spiritual stewardship — caring for the people God has entrusted to lead His story.
 When we serve from rest, not exhaustion, our ministry becomes an ongoing act of worship that reflects the peace of Christ.
-
-> “Then, because so many people were coming and going that they did not even have a chance to eat, he said to them, 'Come with me by yourselves to a quiet place and get some rest.'”
-> — *Mark 6:31*

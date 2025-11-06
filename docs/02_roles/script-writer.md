@@ -8,6 +8,9 @@ scriptural_reference: "2 Timothy 3:16-17"
 related: [intro/vision, ministry/theology-of-art, roles/director]
 ---
 
+> “All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work.”
+> — *2 Timothy 3:16-17*
+
 # Script Writer Role Guide
 
 ## Purpose
@@ -43,6 +46,3 @@ Their words guide movement, music, and message — weaving biblical truth into d
 Every script should move hearts toward Christ.
 A well-written scene is not about applause — it's about revelation.
 The Script Writer's words become instruments of grace that outlive the performance itself.
-
-> “All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work.”
-> — *2 Timothy 3:16-17*

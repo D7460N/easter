@@ -8,6 +8,9 @@ scriptural_reference: "Psalm 33:3"
 related: [roles/singers, production/sound, ministry/servant-leadership]
 ---
 
+> “Sing to Him a new song; play skillfully, and shout for joy.”
+> — *Psalm 33:3*
+
 # Choral Director Role Guide
 
 ## Purpose
@@ -41,6 +44,3 @@ Their role bridges musical precision and ministry purpose — cultivating voices
 ## Heart of the Ministry
 The choir's purpose is to proclaim God's Word through song.
 The choral director models humility, discipline, and joy — leading by example both musically and spiritually.
-
-> “Sing to Him a new song; play skillfully, and shout for joy.”
-> — *Psalm 33:3*

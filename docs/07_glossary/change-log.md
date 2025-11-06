@@ -8,6 +8,9 @@ scriptural_reference: "Proverbs 16:3"
 related: [schema, manifest, glossary/feedback]
 ---
 
+> “Commit to the Lord whatever you do, and he will establish your plans.”
+> — *Proverbs 16:3*
+
 # Documentation Change Log
 
 ## Purpose
@@ -43,6 +46,3 @@ It ensures transparency, accountability, and continuity as the ministry's docume
 ## Ministry Focus
 Change is part of faithful stewardship — refining tools so the ministry can serve better each season.
 Every update represents growth in clarity, unity, and excellence for the glory of God.
-
-> “Commit to the Lord whatever you do, and he will establish your plans.”
-> — *Proverbs 16:3*

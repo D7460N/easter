@@ -7,6 +7,8 @@ scriptural_reference: "1 Corinthians 14:40"
 summary: "Planned movement of actors to visually tell the story."
 ---
 
+> “But everything should be done in a fitting and orderly way.” — *1 Corinthians 14:40*
+
 # Blocking
 
 **Definition:**
@@ -25,5 +27,3 @@ God is a God of order — not confusion — and our stage should reflect that.
 - Note your starting and ending position in your script.
 - Ask if you're unsure about direction.
 - Be patient — blocking may change as scenes evolve.
-
-> “But everything should be done in a fitting and orderly way.” — *1 Corinthians 14:40*

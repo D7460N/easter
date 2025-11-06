@@ -21,9 +21,7 @@ Thank you for serving with excellence!
 
 — {{Director Name}}
 
-
 ### 2. Post-Production Feedback Form
-
 
 What went well?
 
@@ -33,11 +31,9 @@ Did you feel spiritually encouraged?
 
 Any safety or technical concerns?
 
-
 ### 3. Devotional Template
 
-
-Theme: ____________________________
-Scripture: ________________________
-Reflection (3 sentences): ________________________
-Prayer: ___________________________
+Theme: ************\_\_\_\_************
+Scripture: **********\_\_\_\_**********
+Reflection (3 sentences): **********\_\_\_\_**********
+Prayer: ************\_\_\_************

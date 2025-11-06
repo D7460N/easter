@@ -8,6 +8,9 @@ scriptural_reference: "Colossians 3:16"
 related: [roles/choral-director, production/sound, rehearsal/etiquette]
 ---
 
+> “Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts.”
+> — *Colossians 3:16*
+
 # Singer Role Guide
 
 ## Purpose
@@ -41,6 +44,3 @@ Their calling is to minister, not perform — using voice and heart together to 
 ## Ministry Focus
 Singers are storytellers of grace.
 Each lyric becomes testimony, and each harmony a reflection of the Church's unity in Christ.
-
-> “Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts.”
-> — *Colossians 3:16*

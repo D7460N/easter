@@ -8,6 +8,9 @@ scriptural_reference: "Philippians 2:14-15"
 related: [rehearsal/etiquette, ministry/servant-leadership, ministry/church-roles]
 ---
 
+> “Do everything without grumbling or arguing, so that you may become blameless and pure, 'children of God without fault in a warped and crooked generation.' Then you will shine among them like stars in the sky.”
+> — *Philippians 2:14-15*
+
 # Code of Conduct
 
 ## Purpose
@@ -49,6 +52,3 @@ All participants agree to:
 ## Ministry Focus
 Our unity and conduct testify louder than any performance.
 When we serve with joy, purity, and humility, the message of Jesus becomes visible to all who watch — both on stage and off.
-
-> “Do everything without grumbling or arguing, so that you may become blameless and pure, 'children of God without fault in a warped and crooked generation.' Then you will shine among them like stars in the sky.”
-> — *Philippians 2:14-15*
