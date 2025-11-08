@@ -50,23 +50,21 @@ ROOT_START = "<!-- NAV:START -->"
 ROOT_END   = "<!-- NAV:END -->"
 
 def build_root_quick_nav():
-    # Known sections map: { folder: (emoji, label, key_links) }
     sections = [
-        ("01_introduction", "🎯 **Introduction**", "vision.md"),
-        ("02_roles",        "👥 **Roles & Teams**", "director.md / producer.md"),
-        ("03_basics",       "🎬 **Stage Basics**", ""),
-        ("04_rehearsal",    "🕓 **Rehearsals**", "schedule.md"),
-        ("05_production",   "💡 **Production**", ""),
-        ("06_ministry",     "🙏 **Ministry & Leadership**", "purpose.md"),
-        ("07_glossary",     "🧾 **Reference & Glossary**", "")
+        ("01_introduction", "🎯 **Introduction**", ["vision.md"]),
+        ("02_roles",        "👥 **Roles & Teams**", ["director.md", "producer.md"]),
+        ("03_basics",       "🎬 **Stage Basics**", []),
+        ("04_rehearsal",    "🕓 **Rehearsals**", ["schedule.md"]),
+        ("05_production",   "💡 **Production**", []),
+        ("06_ministry",     "🙏 **Ministry & Leadership**", ["purpose.md"]),
+        ("07_glossary",     "🧾 **Reference & Glossary**", []),
     ]
-    rows = []
-    for folder, label, highlight in sections:
+    rows = ["| Section | Description | Key Links |",
+            "|----------|--------------|-----------|"]
+    for folder, label, highlights in sections:
         path = f"./docs/{folder}/"
-        key = f" → [{highlight}]({path}{highlight})" if highlight else ""
-        rows.append(f"| {label} | {folder.replace('_',' ').replace('01','').strip()} | [{folder}]({path}){key} |")
-    rows.insert(0, "| Section | Description | Key Links |")
-    rows.insert(1, "|----------|--------------|-----------|")
+        keys = " · ".join(f"[{h.replace('.md','').replace('-',' ').title()}]({path}{h})" for h in highlights)
+        rows.append(f"| {label} | {folder.replace('_',' ').replace('01','').strip()} | {keys or '—'} |")
     return "\n".join(rows)
 
 def sync_root_index():

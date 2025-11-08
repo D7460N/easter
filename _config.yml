@@ -1,0 +1,9 @@
+title: EASTER
+theme: null  # disable GitHub’s default theme
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty
+defaults:
+  - scope: { path: "", type: "pages" }
+    values: { layout: default }

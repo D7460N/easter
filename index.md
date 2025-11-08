@@ -1,3 +1,7 @@
+---
+title: EASTER
+---
+
 # 🎭 Church Stage Performance Knowledge MCP
 <!-- NAV:START -->
 | Section | Description | Key Links |
